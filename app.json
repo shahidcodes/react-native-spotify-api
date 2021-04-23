@@ -1,0 +1,12 @@
+{
+  "name": "spotify-api",
+  "displayName": "spotify-api",
+  "expo": {
+    "name": "spotify-api",
+    "slug": "spotify-api",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
