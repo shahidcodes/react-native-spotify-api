@@ -29,7 +29,7 @@ export default function Login({
       scopes: ["user-read-email"],
       usePKCE: false,
       redirectUri: makeRedirectUri({
-        native: "https://spotify.shahidkamal.ml",
+        native: "myspotify://redirect",
       }),
     },
     discovery
